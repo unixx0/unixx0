@@ -3,7 +3,7 @@
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=40&pause=99999&color=e0aaff&background=0a001000&center=true&vCenter=true&width=900&height=100&lines=Yunish+Udas+%7C+unixx0" alt="Yunish Udas" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=🤖+Building+Multi-Agent+AI+Systems;🧠+LangChain+%7C+LangGraph+%7C+CrewAI+%7C+RAG;🔍+NL-to-SQL+%7C+Policy+QA+%7C+Blog+Generation;🚀+Turning+ideas+into+intelligent+pipelines;💡+Just+learning%2C+vibing+and+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Building+Multi-Agent+AI+Systems;LangChain+%7C+LangGraph+%7C+CrewAI+%7C+RAG;NL-to-SQL+%7C+Policy+QA+%7C+Blog+Generation;Turning+ideas+into+intelligent+pipelines;Just+learning%2C+vibing+and+building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
