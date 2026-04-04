@@ -1,8 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0010,40:1a0533,80:2d1b69,100:0f3460&height=230&section=header&text=Yunish%20Udas&fontSize=70&fontColor=e0aaff&fontAlignY=40&desc=AI%20Developer%20%7C%20LLM%20%26%20Agent%20Systems%20%7C%20CSIT%20Student%20%F0%9F%87%B3%F0%9F%87%B5&descAlignY=62&descSize=18&animation=fadeIn"/>
-
-<br/>
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=40&pause=99999&color=e0aaff&background=0a001000&center=true&vCenter=true&width=900&height=100&lines=Yunish+Udas+%7C+unixx0" alt="Yunish Udas" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=🤖+Building+Multi-Agent+AI+Systems;🧠+LangChain+%7C+LangGraph+%7C+CrewAI+%7C+RAG;🔍+NL-to-SQL+%7C+Policy+QA+%7C+Blog+Generation;🚀+Turning+ideas+into+intelligent+pipelines;💡+Just+learning%2C+vibing+and+building" alt="Typing SVG" />
