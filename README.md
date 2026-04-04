@@ -227,8 +227,8 @@ class Yunish:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=unixx0&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=unixx0&theme=midnight-purple&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=unixx0&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=unixx0&theme=midnight-purple&hide_border=true" />
 </div>
 
 <div align="center">
@@ -240,7 +240,7 @@ class Yunish:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=unixx0&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=unixx0&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=6" />
 </div>
 
 ---
