@@ -199,10 +199,6 @@ Hands-on notebooks covering supervised learning, neural networks, and real-world
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/unixx0/unixx0/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</div>
-
-<div align="center">
   <img width="100%" src="https://ghchart.rshah.org/7b2d8b/unixx0" alt="Contribution Graph" />
 </div>
 
